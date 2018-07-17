@@ -8,7 +8,7 @@
         <hint/>
         <name>NeedIt</name>
         <order>100</order>
-        <roles>x_210865_needit.needit_user</roles>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-09 11:10:46</sys_created_on>
