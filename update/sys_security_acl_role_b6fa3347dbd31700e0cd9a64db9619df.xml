@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-19 13:47:23</sys_created_on>
+        <sys_id>b6fa3347dbd31700e0cd9a64db9619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_210865_needit_needit_task.x_210865_needit.needit_task_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_210865_needit">3111273f4fcf53002a6722d18110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">3111273f4fcf53002a6722d18110c747</sys_scope>
+        <sys_security_acl display_value="x_210865_needit_needit_task">fefa3347dbd31700e0cd9a64db9619dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b6fa3347dbd31700e0cd9a64db9619df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-19 13:47:23</sys_updated_on>
+        <sys_user_role display_value="x_210865_needit.needit_task_user" name="x_210865_needit.needit_task_user">aefa3347dbd31700e0cd9a64db9619b8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
