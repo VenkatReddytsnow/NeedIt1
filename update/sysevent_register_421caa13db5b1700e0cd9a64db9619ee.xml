@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description>This event is fired for each overdue NeedIt Task record</description>
+        <event_name>x_210865_needit.overdueNeedIt Tasks</event_name>
+        <fired_by>Scheduled Script execution-Find Overdue NeedIt Tasks</fired_by>
+        <queue/>
+        <suffix>overdueNeedIt Tasks</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 02:43:19</sys_created_on>
+        <sys_id>421caa13db5b1700e0cd9a64db9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_210865_needit.overdueNeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_210865_needit">3111273f4fcf53002a6722d18110c747</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">3111273f4fcf53002a6722d18110c747</sys_scope>
+        <sys_update_name>sysevent_register_421caa13db5b1700e0cd9a64db9619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 02:43:19</sys_updated_on>
+        <table>x_210865_needit_needit_task</table>
+    </sysevent_register>
+</record_update>
